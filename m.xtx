@@ -1,0 +1,23 @@
+ls: cannot access '/tt': No such file or directory
+total 376
+drwxrwxrwx 3 shams shams  4096 نوف  6 04:02 .
+drwxr-xr-x 3 shams shams  4096 نوف  5 19:20 ..
+-rw-rw-rw- 1 shams shams  8857 نوف  6 04:00 command.cc
+-rw-rw-rw- 1 shams shams   750 نوف  5 01:22 command.h
+-rw-rw-r-- 1 shams shams 45368 نوف  6 04:00 command.o
+-rw-rw-r-- 1 shams shams  9031 نوف  6 04:02 data.log
+drwxrwxrwx 2 shams shams  4096 أكت 20 18:48 examples
+-rw-rw-r-- 1 shams shams    11 نوف  6 02:47 h.txt
+-rw-rw-r-- 1 shams shams 45332 نوف  6 04:01 lex.yy.c
+-rw-rw-r-- 1 shams shams 44648 نوف  6 04:01 lex.yy.o
+-rw-rw-rw- 1 shams shams   338 أكت 20 11:00 Makefile
+-rw-rw-r-- 1 shams shams  1509 نوف  6 04:00 m.txt
+-rw-rw-r-- 1 shams shams    51 نوف  6 04:02 m.xtx
+-rw-rw-r-- 1 shams shams   992 أكت 30 17:40 n.txt
+-rw-rw-r-- 1 shams shams  1154 نوف  6 03:59 out.txt
+-rwxrwxr-x 1 shams shams 82048 نوف  6 04:01 shell
+-rw-rw-rw- 1 shams shams   611 نوف  6 04:01 shell.l
+-rw-rw-rw- 1 shams shams  2269 نوف  6 03:56 shell.y
+-rw-rw-r-- 1 shams shams 45755 نوف  6 03:56 y.tab.c
+-rw-rw-r-- 1 shams shams  3261 نوف  6 03:56 y.tab.h
+-rw-rw-r-- 1 shams shams 27904 نوف  6 03:56 y.tab.o

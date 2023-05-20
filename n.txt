@@ -1,0 +1,19 @@
+total 324
+drwxrwxrwx 3 shams shams  4096 أكت 30 17:40 .
+drwxr-xr-x 3 shams shams  4096 أكت 25 19:22 ..
+-rw-rw-rw- 1 shams shams  7098 أكت 30 13:49 command.cc
+-rw-rw-rw- 1 shams shams   762 أكت 29 16:30 command.h
+-rw-rw-r-- 1 shams shams 36328 أكت 30 17:40 command.o
+drwxrwxrwx 2 shams shams  4096 أكت 20 18:48 examples
+-rw-rw-r-- 1 shams shams   886 أكت 29 18:42 h.txt
+-rw-rw-r-- 1 shams shams 45292 أكت 29 17:16 lex.yy.c
+-rw-rw-r-- 1 shams shams 44640 أكت 29 17:16 lex.yy.o
+-rw-rw-rw- 1 shams shams   338 أكت 20 11:00 Makefile
+-rw-rw-r-- 1 shams shams   886 أكت 29 18:42 m.txt
+-rw-rw-r-- 1 shams shams     0 أكت 30 17:40 n.txt
+-rwxrwxr-x 1 shams shams 70344 أكت 30 17:40 shell
+-rw-rw-rw- 1 shams shams   610 أكت 29 17:05 shell.l
+-rw-rw-rw- 1 shams shams  2522 أكت 30 13:29 shell.y
+-rw-rw-r-- 1 shams shams 46336 أكت 30 17:40 y.tab.c
+-rw-rw-r-- 1 shams shams  3261 أكت 30 17:40 y.tab.h
+-rw-rw-r-- 1 shams shams 28288 أكت 30 17:40 y.tab.o
